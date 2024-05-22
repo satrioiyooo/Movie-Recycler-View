@@ -1,0 +1,82 @@
+<resources>
+    <string name="app_name">Movie</string>
+    <string name="film_name">Nama Film</string>
+    <string name="description">Deskripsi</string>
+    <string name="about">About</string>
+    <string name="this_is_moveactivity">Ini MoveActivity</string>
+    <string name="judul">Judul</string>
+    <string name="descriptions">Description</string>
+    <string name="kembali">Home</string>
+    <string name="satrio_wibowo">Satrio Wibowo</string>
+    <string name="a009d4ky4444_bangkit_academy">a009d4ky4444@bangkit.academy</string>
+    <string-array name="data_name">
+        <item>Agak Laen (2024)</item>
+        <item>The Raid: Redemption (2011)</item>
+        <item>5 cm (2012)</item>
+        <item>Single (II) (2015)</item>
+        <item>The Raid 2 (2014)</item>
+        <item>Sherina`s Adventure (2000)</item>
+        <item>My Stupid Boss (2016)</item>
+        <item>Laskar Pelangi (2008)</item>
+        <item>Habibie dan Ainun (2012)</item>
+        <item>Comic 8: Casino Kings Part 2 (2016)</item>
+        <item>Verses of Love (2008)</item>
+        <item>What`s Up with Cinta 2 (2016)</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>An old man dies in a failing haunted house ride. The operators bury his body on site, turning it into a popular attraction. An old man dies in a failing haunted house ride. The operators bury his body on site, turning it into a popular attraction. An old man dies in a failing haunted house ride. The operators bury his body on site, turning it into a popular attraction. An old man dies in a failing haunted house ride. The operators bury his body on site, turning it into a popular attraction. An old man dies in a failing haunted house ride. The operators bury his body on site, turning it into a popular attraction.</item>
+        <item>A S.W.A.T. team becomes trapped in a tenement run by a ruthless mobster and his army of killers and thugs.</item>
+        <item>Five best friends try to find out what true friendship is by climbing Mount Semeru, the highest peak in Java.</item>
+        <item>A single man desperately looking for a girl that brings him into an unforgettable journey.</item>
+        <item>Only a short time after the first raid, Rama goes undercover with the thugs of Jakarta and plans to bring down the syndicate and uncover the corruption within his police force.</item>
+        <item>Adventure of a little girl who just moved to a new town and meet a new friends.</item>
+        <item>Diana (Bunga Citra Lestari) lives in Kuala Lumpur following her husband who works there. Diana then applied to work at a company owned by Bossman. Bossman happened to be her husband`s college friend while in America.</item>
+        <item>In the 1970s, a group of 10 students struggles with poverty and develop hopes for the future in Gantong Village on the farming and tin mining island of Belitung off the east coast of Sumatra.</item>
+        <item>This movie is based on the memoir written by the 3rd President of Indonesia and one of the world-famous engineer, B.J. Habibie about his wife, Hasri Ainun Habibie.</item>
+        <item>Trapped in an online gambling game where they face levels of increasingly lethal challengers, the Comic 8 fight to reach their ultimate goal: The King.</item>
+        <item>A man who try to get through a complicated relationship in the Islamic way.</item>
+        <item>14 years after their budding romance in high school, Rangga and Cinta reunite in Yogyakarta to have their closure after Rangga had left Cinta with no explanation years prior.</item>
+    </string-array>
+    <integer-array name="data_photo">
+        <item>@drawable/agak_laen_1</item>
+        <item>@drawable/the_raid</item>
+        <item>@drawable/lima_cm</item>
+        <item>@drawable/single</item>
+        <item>@drawable/the_raid_2</item>
+        <item>@drawable/petualangan_sherina</item>
+        <item>@drawable/my_stupid_boss</item>
+        <item>@drawable/laskar_pelangi</item>
+        <item>@drawable/habibie_ainun</item>
+        <item>@drawable/comic_8_2</item>
+        <item>@drawable/ayat_ayat_cinta</item>
+        <item>@drawable/aadc2</item>
+    </integer-array>
+    <string-array name="data_rate">
+        <item>8,1/10</item>
+        <item>7,6/10</item>
+        <item>7,2/10</item>
+        <item>6,7/10</item>
+        <item>7,9/10</item>
+        <item>7,8/10</item>
+        <item>7,1/10</item>
+        <item>7,9/10</item>
+        <item>7,6/10</item>
+        <item>5,8/10</item>
+        <item>6,9/10</item>
+        <item>7,3/10</item>
+    </string-array>
+    <string-array name="cast">
+        <item>Directed by Muhadkly Acho. With Bene Dion Rajagukguk, Oki Rengga, Indra Jegel, Boris Bokir.</item>
+        <item>Director: Gareth Evans | Stars: Iko Uwais, Ananda George, Ray Sahetapy, Donny Alamsyah</item>
+        <item>Director: Rizal Mantovani | Stars: Herjunot Ali, Raline Shah, Fedi Nuril, Pevita Pearce</item>
+        <item>Director: Raditya Dika | Stars: Raditya Dika, Annisa Rawles, Chandra Liow, Pandji Pragiwaksono</item>
+        <item>Director: Gareth Evans | Stars: Iko Uwais, Yayan Ruhian, Arifin Putra, Oka Antara</item>
+        <item>Director: Director: Riri Riza | Stars: Sherina Munaf, Derby Romero, Didi Petet, Ucy Nurul</item>
+        <item>Director: Director: Upi Avianto | Stars: Bunga Citra Lestari, Reza Rahadian, Alex Abbad, Bront Palarae</item>
+        <item>Director: Riri Riza | Stars: Cut Mini Theo, Zulfanny, Ikranagara, Lukman Sardi</item>
+        <item>Director: Faozan Rizal | Stars: Reza Rahadian, Bunga Citra Lestari, Tio Pakusadewo, Ratna Riantiarno</item>
+        <item>Director: Anggy Umbara | Stars: Arie Kriting, Babe Cabita, Bintang Timur, Ernest Prakasa</item>
+        <item>Directors: Hanung Bramantyo, Iqbal Rais | Stars: Fedi Nuril, Rianti Cartwright, Carissa Putri, Zaskia Adya Mecca</item>
+        <item>Director: Riri Riza | Stars: Nicholas Saputra, Dian Sastrowardoyo, Titi Kamal, Adinia Wirasti</item>
+    </string-array>
+</resources>
